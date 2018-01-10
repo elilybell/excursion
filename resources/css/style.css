@@ -17,12 +17,17 @@ p{
 
 }
 
+#Excursion{
+  text-align:right;
+
+}
+
 #top-header{
   font-weight: normal;
   font-size: 50px;
 }
 
-#top-link{
+a{
   color: aquamarine;
   font-size: 16px;
 }
