@@ -1,9 +1,28 @@
 
+
+body{
+  background-color:black;
+  font-family:Verdana;
+  text-align:center;
+}
+
+h1{
+  color:white;
+}
+
+p{
+  font-family:Verdana;
+  color:gray;
+  font-size: 21px;
+
+}
+
 #top-header{
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
+}
 
+#top-link{
+  color: aquamarine;
+  font-size: 16px;
 }
